@@ -1,0 +1,2 @@
+#/bin/bash
+sudo pacman -S i3-gaps i3blocks i3status i3lock dmenu lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings git xorg nvidia nvidia-libgl mesa rxvt-unicode compton rofi lxappearance xf86-video-intel libgl mesa arc-gtk-theme arc-icon-theme pcmanfm zathura transmission-gtk gparted ranger vlc devmon alsa-firmware alsa-utils alsa-plugins pulseaudio-alsa pulseaudio pavucontrol xdg-user-dirs feh chromium imagemagick scrot yad xdotool grub-customizer drawing dunst
